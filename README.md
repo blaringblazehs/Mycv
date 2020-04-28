@@ -1,2 +1,0 @@
-# Mycv
-My CV
